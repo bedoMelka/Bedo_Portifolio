@@ -1,0 +1,24 @@
+/*author :Bedo Melka
+ugr/30068/14
+*/
+
+
+
+
+
+
+database name = my_portifolio
+table name= log_in_table
+
+//log in by the following information
+
+FristName Bedo
+lastName= Melka
+email = badhoo@gmail.com
+password 1234
+
+
+or
+click forget password, then enter the correct email address
+
+// please register by correct information then Login to my website
